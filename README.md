@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Karyada Vaeshnavi 👋
 
-<!--
-**karyadavaeshnavi-web/karyadavaeshnavi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer | GCP | Terraform | Kubernetes | DevOps | SRE
 
-Here are some ideas to get you started:
+I am building hands-on cloud engineering, infrastructure automation, and reliability projects while documenting my learning journey publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Linux Foundations
+* Networking Fundamentals
+* Python Automation
+* Google Cloud Platform (GCP)
+* Docker & Kubernetes
+* Terraform Infrastructure as Code
+* CI/CD with GitHub Actions
+* Monitoring & SRE Practices
+
+## Tech Stack
+
+### Cloud
+
+* Google Cloud Platform (GCP)
+
+### Infrastructure & DevOps
+
+* Terraform
+* Docker
+* Kubernetes
+* GitHub Actions
+
+### Systems
+
+* Linux
+* Networking
+
+### Programming
+
+* Python
+
+## Learning Journey
+
+I am following a structured Cloud Engineer → DevOps → SRE roadmap and documenting every topic, lab, project, and lesson learned.
+
+Repository:
+
+* cloud-engineer-journey
+
+## Upcoming Projects
+
+* Linux Monitoring Dashboard
+* Terraform GCP Infrastructure
+* Dockerized Python API
+* GKE Production Deployment
+* CI/CD Pipeline
+* Observability Stack
+* Production Cloud Platform
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/karyadavaeshnavi
+* Email: [karyadavaeshnavi@gmail.com](mailto:karyadavaeshnavi@gmail.com)
